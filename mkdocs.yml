@@ -1,0 +1,21 @@
+site_name: L Ruhlen
+site_url: https://lruhlen.github.io
+site_description: BUSINESS LOBSTERS
+site_author: L Ruhlen
+
+repo_url: https://github.com/lruhlen/lruhlen.github.io
+
+theme:
+	name: mkdocs
+	highlightjs: true
+	hljs_languages:
+		- yaml
+		- django
+
+
+nav:
+	- Home: index.md
+	- About: about.md
+
+plugins:
+	- search
