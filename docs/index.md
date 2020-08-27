@@ -1,5 +1,3 @@
-# Here's a heading
+#Data Science and Other Disciplines
 
-And here is some text
-
-Woo
+Come for the strong opinions. Stay for the cat gifs.
