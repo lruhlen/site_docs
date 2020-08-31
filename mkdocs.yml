@@ -1,5 +1,4 @@
 site_name: L Ruhlen
-site_url: https://lruhlen.github.io
 site_description: BUSINESS LOBSTERS
 site_author: L Ruhlen
 
@@ -19,7 +18,7 @@ nav:
 
 markdown_extensions:
     - toc:
-        baselevel: 3
+        baselevel: 2
 
 plugins:
     - search:
