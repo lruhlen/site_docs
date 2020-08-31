@@ -17,5 +17,10 @@ nav:
     - Home: index.md
     - About: about.md
 
+markdown_extensions:
+    - toc:
+        baselevel: 3
+
 plugins:
-    - search
+    - search:
+        separator: '[\s\-\.]+'
