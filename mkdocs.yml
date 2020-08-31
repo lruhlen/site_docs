@@ -6,7 +6,7 @@ site_author: L Ruhlen
 repo_url: https://github.com/lruhlen/lruhlen.github.io
 
 theme:
-    name: gitbook
+    name: bootstrap4
     highlightjs: true
     hljs_languages:
         - yaml
